@@ -1,6 +1,6 @@
 # Semi-supervised learning for high-resolution remote sensing image scene classification
 
- Requirements :-
+ Requirements : -
  
 - python 3 
 - jupyter Notebook or run it on VSC
