@@ -8,7 +8,7 @@
 - download NWPU-RESISC45 dataset from google drive
 
  then write  specify the path in the code to create connection between the code 
- and the operation system...
+ and the operation system.
  
  then follow the code setups 
 
