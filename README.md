@@ -10,7 +10,7 @@
  then write  specify the path in the code to create connection between the code 
  and the operation system.
  
- then follow the code setups 
+ then follow the code setups...
 
 
 
