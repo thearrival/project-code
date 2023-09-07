@@ -8,7 +8,7 @@
 - Download NWPU-RESISC45 dataset from google drive.
 
 
- Then write  specify the path in the code to create connection between the code 
+ Then write  specify the path in the code to create connection between the code .
  and the operation.
  then follow the code setups.
 
