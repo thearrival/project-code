@@ -1,4 +1,4 @@
-# Semi-supervised learning for high-resolution remote sensing image scene classification.
+# Semi-supervised learning for high-resolution remote sensing image scene classification...
 
  Requirements :
  
